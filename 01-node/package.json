@@ -1,0 +1,19 @@
+{
+  "name": "01-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "format-date-time": "^0.3.3",
+    "md5": "^2.3.0",
+    "mkdirp": "^1.0.4"
+  },
+  "devDependencies": {}
+}
